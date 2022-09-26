@@ -1,0 +1,17 @@
+body{
+    background-color: yellow;
+    background-image: url(../daniel/daniel.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.DANIEL{
+    text-align: center;
+    border: solid black;
+    background-color: blue;
+}
+
+.fieldset{
+    background-color: black;
+    color: black;
+}
